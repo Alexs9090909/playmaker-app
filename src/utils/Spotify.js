@@ -2,7 +2,7 @@ const BASE_URL = 'https://accounts.spotify.com/authorize';
 const RESPONSE_TYPE = '?response_type=token';
 const CLIENT_ID = "&client_id=92b7e448f7fe406eaef359748343fe84";
 // const REDIRECT_URL = "&redirect_uri=http://localhost:3000/";
-const REDIRECT_URL = "&redirect_uri=https://alexs9090909.github.io/playmaker/";
+const REDIRECT_URL = "&redirect_uri=https://alexs9090909.github.io/playmaker-app/";
 const SCOPE = '&scope=ugc-image-upload user-read-playback-state user-modify-playback-state user-read-currently-playing playlist-modify-public playlist-modify-private playlist-read-private playlist-read-collaborative';
 let TOKEN = null;
 

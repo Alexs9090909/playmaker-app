@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/playmaker/static/css/main.fa1ae0a8.css",
+    "main.js": "/playmaker/static/js/main.27759aa2.js",
+    "static/js/787.54e4d9e6.chunk.js": "/playmaker/static/js/787.54e4d9e6.chunk.js",
+    "index.html": "/playmaker/index.html",
+    "static/media/logo.svg": "/playmaker/static/media/logo.4010961f114aeed1b43d3cc19c4c6100.svg",
+    "main.fa1ae0a8.css.map": "/playmaker/static/css/main.fa1ae0a8.css.map",
+    "main.27759aa2.js.map": "/playmaker/static/js/main.27759aa2.js.map",
+    "787.54e4d9e6.chunk.js.map": "/playmaker/static/js/787.54e4d9e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa1ae0a8.css",
+    "static/js/main.27759aa2.js"
+  ]
+}
