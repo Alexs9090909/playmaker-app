@@ -1,0 +1,79 @@
+/* App.css */
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .ConnectButton {
+    color: white;
+    background-color: #1DB954;
+    position:absolute;
+    font-size: 1.4rem;
+    width: 170px;
+    height: 60px;
+    top: 40px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 30px;
+    border: 5px solid #16DB93;
+  }
+
+  .ConnectButton img{
+    width: 20px;
+    height: auto;
+    margin: 0 5px 0 0;
+  }
+
+  .Container {
+    display: flex;
+    height: 100vh;
+  }
+  
+  .BlueSection {
+    flex: 1;
+    background-color: #3B5DBF;
+    display: flex;
+  }
+  
+  .RedSection {
+    flex: 1;
+    background-color: #FF6933;
+    display: flex;
+  }
+  
+/* Partie relative aux composants internes à la BlueSection */
+
+  .SearchContainer {
+    background-color: #BFE6F5;
+    height: 550px;
+    width: 60%;
+    margin: auto;
+    border-radius: 20px;
+    display: block;
+  }
+
+  .SearchTitle {
+    margin: 5% auto 0 auto;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+  }
+
+/* Partie relative aux composants internes à la RedSection */
+
+
+  .PlaylistContainer {
+    background-color: #FFD5C2;
+    height: 550px;
+    width: 60%;
+    margin: auto;
+    border-radius: 20px;
+    display: block;
+  }
+
+  .PlaylistTitle {
+    margin: 5% auto 0 auto;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+  }
